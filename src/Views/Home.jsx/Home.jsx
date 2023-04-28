@@ -5,11 +5,6 @@ import About from "../../Components/About/About"
 
 function Home(){
 
-    function saveToState(){
-        
-
-    }
-
     return(
         <section className="home">
             <article className="home__header">
