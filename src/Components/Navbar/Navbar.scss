@@ -13,4 +13,30 @@
         font-size: 1.75rem;
     }
     
+    &__mobile{
+        background-color: $salmonPink;
+        width: 100%;
+    }
+    &__droplist{
+        background-color: $salmonPink;
+        width: 100%;
+        border: none;
+        font-size: 1.5rem;
+        color:rgba(75, 77, 99, 1) ;
+        height: 4rem;
+        display: none;
+    }
+    &__droplist:focus{
+        border: none;
+    }
 }
+@media only screen and (max-width: 470px) {
+
+    .navigation__nav{
+        display: none;
+    }
+    .navigation__droplist{
+        display: block;
+    }
+     
+   }

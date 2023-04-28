@@ -25,6 +25,15 @@ function Navbar(){
                 <h1 onClick = {navigateToEducation } className="navigation__titles">Education</h1>
                 <h1 onClick = {navigateToContacts} className="navigation__titles">Contacts</h1>
             </nav>
+            <nav className='navigation__mobile'>
+                <select name="Menu" id="" className='navigation__droplist'>
+                    <option  value="Menu">Menu</option>
+                    <option onClick = {navigateToAbout } className="navigation__titles" value="">About</option>
+                    <option onClick = {navigateToWork } className="navigation__titles" value="">Prevoius Work</option>
+                    <option  onClick = {navigateToEducation } className="navigation__titles"value="">Education</option>
+                    <option  onClick = {navigateToContacts} className="navigation__titles" value="">Contacts</option>
+                </select>
+            </nav>
         </section>
     )
 }
