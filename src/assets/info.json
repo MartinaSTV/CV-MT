@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "year" : "2021.04-2022.11",
+        "title" : "Äldrevården Lerumskommun",
+        "worktitle" : "Vårdbiträde",
+        "type" : "timmanställning"
+    },
+    {
+        "id": 2,
+        "year" : "2019 -2021",
+        "title" : "Lernia Bemanningsföretag",
+        "worktitle" : "Lagerhantering",
+        "type" : "timmanställning"
+    },
+    {
+        "id": 3,
+        "year" : "2013-10-24 t.o.m 2016-12-29",
+        "title" : "Lerums kommun skola, förskola",
+        "worktitle" : "Kock",
+        "type" : "timmanställning"
+    },
+    {
+        "id": 4,
+        "year" : "2013- 08- 2016- 06",
+        "title" : "Skandinaviska osteopathögskolan",
+        "worktitle" : "Student",
+        "type" : "Heltid"
+    },
+    {
+        "id": 5,
+        "year" : "2012-10-24 2013-07-29",
+        "title" : " Öijareds golfrestaurang, Floda",
+        "worktitle" : "Servitris, hovmästare.",
+        "type" : "Heltid"
+    },
+    {
+        "id": 6,
+        "year" : "2010-03 t.o.m 2012-09-22",
+        "title" : " Skafferiet Coffeebar, Göteborg",
+        "worktitle" : "Cafèbiträde/kallskänka.",
+        "type" : "Heltid"
+    },
+    {
+        "id": 7,
+        "year" : "2009-07 t.o.m. 2010-03",
+        "title" : " Tidpunkten",
+        "worktitle" : "Försäljning av biljetter och information av resevägar, tider och priser",
+        "type" : "Heltid"
+    },
+    {
+        "id": 8,
+        "year" : "2009-11 t.o.m. 2010-06",
+        "title" : "Restaurang Assistans, Bemanningsföretag i Göteborg.",
+        "worktitle" : "Köksbiträde, Konferansvärdinna, Servitrtis",
+        "type" : "timmanställning"
+    },
+    {
+        "id": 9,
+        "year" : "2008-08 t.o.m. 2009-01,",
+        "title" : "Grata Personal, Bemanningsföretag i Oslo.",
+        "worktitle" : "Servitris på Banketter, Konferanser. Köksbiträde. Kock",
+        "type" : "timmanställning"
+    },
+    {
+        "id": 10,
+        "year" : "2007-09- 28 t.o.m. 2008-04-31,",
+        "title" : "Kaffitár, Cafè i Kringlan i Reykjavik",
+        "worktitle" : "Barista och sedvanliga arbetsuppgifter inom Café.",
+        "type" : "Heltid"
+    },
+    {
+        "id": 11,
+        "year" : "2007-07- t.o.m. 2007-09",
+        "title" : "Fjalakötturinn à la carte Restaurang, Reykjavik.",
+        "worktitle" : "Kock",
+        "type" : "Heltid"
+    },
+    {
+        "id": 12,
+        "year" : "Kassörska, plocka upp varor mm.",
+        "title" : "Handlarn, Matvarubutik i Olofstorp",
+        "worktitle" : "Kassörska",
+        "type" : "Heltid"
+    },
+    {
+        "id": 13,
+        "year" : " 2006-09 t.o.m. 2006-11",
+        "title" : "Foss hotel Reykholt, Island",
+        "worktitle" : "Frukostvärdinna, köksbiträde, servering, städning av hotellrum mm",
+        "type" : "Timmanställning"
+    },
+    {
+        "id": 14,
+        "year" : "2006-05 t.o.m. 2006-11",
+        "title" : "Gardyrkjustöd, Reykholt, Island",
+        "worktitle" : "Huvudsakliga arbetsuppgifter med tomatplantor, sortering, packning samt diverse trädgårdsarbete",
+        "type" : "Heltid"
+    },
+    {
+        "id": 15,
+        "year" : "2004-09 t.o.m. 2006- 03",
+        "title" : "Bergums skola, Lärjedalen",
+        "worktitle" : "Kokerska, ekonomibiträde och lokalvårdare",
+        "type" : "Timmanställning"
+    }
+]

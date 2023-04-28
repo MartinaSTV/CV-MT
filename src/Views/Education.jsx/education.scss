@@ -1,0 +1,37 @@
+@import'../../Sass/variables';
+.education{
+    background-color: $lightGrey;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 0.90rem ;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2rem;
+
+    &__top{
+        background-color: white;
+        margin: 1rem;
+        padding: 1rem;
+    }
+    &__kursiv{
+        font-style: italic;
+    }
+    &__link{
+        text-decoration: none;
+        color: black;
+        border: 1px solid grey;
+        border-radius: 5px;
+        padding: 0.5rem;
+    }
+    &__headline{
+        margin-left: 1rem;
+        color:  rgba(75, 77, 99, 1);
+    }
+    &__title{
+        margin-left: 1rem;
+        color:  rgba(75, 77, 99, 1);
+    }
+}

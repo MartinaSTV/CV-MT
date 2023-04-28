@@ -1,0 +1,35 @@
+@import '../../Sass/variables';
+.work{
+    background-color: $lightGrey;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 0.90rem ;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2rem;
+
+    &__headline{
+        color:  rgba(75, 77, 99, 1);
+        margin: 0;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+    }
+    &__summary{
+        background-color: white;
+        margin: 2rem;
+        padding: 1rem;
+    }
+    &__button{
+        text-decoration: none;
+        color: black;
+        background-color: white;
+        border: 1px solid grey;
+        border-radius: 2px;
+        padding: 0.5rem;
+    }
+    &__title{
+        padding-top: 2rem;
+        color:  rgba(75, 77, 99, 1);
+    }
+}

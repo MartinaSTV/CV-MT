@@ -1,0 +1,16 @@
+@import '../../Sass/variables';
+
+.navigation{
+
+    &__nav{
+        background-color: $salmonPink;
+        display: flex;
+        justify-content: space-around;
+    }
+    &__titles{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+    }
+    
+}
