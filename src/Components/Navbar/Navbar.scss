@@ -26,9 +26,6 @@
         height: 4rem;
         display: none;
     }
-    &__droplist:focus{
-        border: none;
-    }
 }
 @media only screen and (max-width: 470px) {
 
@@ -36,7 +33,22 @@
         display: none;
     }
     .navigation__droplist{
-        display: block;
+        display: flex;
+        -webkit-appearance: none;
+        appearance: none;
+        vertical-align: middle;
+    }
+    .navigation__droplist:focus{
+       border: none;
+    }
+    .navigation__droplist:active{
+        border: none;
+     }
+    .option {
+        border: none;
+        font-weight: 300;
+        color: black;
+        width: 100%;
     }
      
    }
