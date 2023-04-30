@@ -49,7 +49,7 @@ function Navbar(){
                 <select name="Menu" id="Menu" className='navigation__droplist' onChange={ getValue }>
                     <option  value="Menu" className='navigation__titles option'>Menu</option>
                     <option className="navigation__titles option" value="About">About</option>
-                    <option className="navigation__titles option" value="Prevoius Work">Prevoius Work</option>
+                    <option className="navigation__titles option" value="Prevoius Work">Previous Work</option>
                     <option  className="navigation__titles option"value="Education">Education</option>
                     <option  className="navigation__titles option" value="Contacts">Contacts</option>
                 </select>

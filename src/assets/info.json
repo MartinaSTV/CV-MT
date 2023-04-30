@@ -3,22 +3,22 @@
         "id": 1,
         "year" : "2021.04-2022.11",
         "title" : "Äldrevården Lerumskommun",
-        "worktitle" : "Vårdbiträde",
-        "type" : "timmanställning"
+        "worktitle" : "Vårdbiträde, demensavdelning äldrevården",
+        "type" : "Timmanställning"
     },
     {
         "id": 2,
         "year" : "2019 -2021",
         "title" : "Lernia Bemanningsföretag",
         "worktitle" : "Lagerhantering",
-        "type" : "timmanställning"
+        "type" : "Timmanställning"
     },
     {
         "id": 3,
         "year" : "2013-10-24 t.o.m 2016-12-29",
         "title" : "Lerums kommun skola, förskola",
         "worktitle" : "Kock",
-        "type" : "timmanställning"
+        "type" : "Timmanställning"
     },
     {
         "id": 4,
@@ -52,27 +52,27 @@
         "id": 8,
         "year" : "2009-11 t.o.m. 2010-06",
         "title" : "Restaurang Assistans, Bemanningsföretag i Göteborg.",
-        "worktitle" : "Köksbiträde, Konferansvärdinna, Servitrtis",
-        "type" : "timmanställning"
+        "worktitle" : "Köksbiträde, Konferansvärdinna, Servitris",
+        "type" : "Timmanställning"
     },
     {
         "id": 9,
         "year" : "2008-08 t.o.m. 2009-01,",
-        "title" : "Grata Personal, Bemanningsföretag i Oslo.",
+        "title" : "Grata Personal, Bemanningsföretag i Oslo. (Norge)",
         "worktitle" : "Servitris på Banketter, Konferanser. Köksbiträde. Kock",
-        "type" : "timmanställning"
+        "type" : "Timmanställning"
     },
     {
         "id": 10,
         "year" : "2007-09- 28 t.o.m. 2008-04-31,",
-        "title" : "Kaffitár, Cafè i Kringlan i Reykjavik",
-        "worktitle" : "Barista och sedvanliga arbetsuppgifter inom Café.",
+        "title" : "Kaffitár, Cafè i Kringlan i Reykjavik (Island)",
+        "worktitle" : "Barista samt sedvanliga arbetsuppgifter inom Café.",
         "type" : "Heltid"
     },
     {
         "id": 11,
         "year" : "2007-07- t.o.m. 2007-09",
-        "title" : "Fjalakötturinn à la carte Restaurang, Reykjavik.",
+        "title" : "Fjalakötturinn à la carte Restaurang, Reykjavik (Island).",
         "worktitle" : "Kock",
         "type" : "Heltid"
     },

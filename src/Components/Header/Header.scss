@@ -53,7 +53,6 @@
 
    .header{
      &__top{
-        align-self: flex-start;
         margin-left: 0.3rem ;
      }
      &__textTop{
@@ -62,6 +61,9 @@
      }
      &__title{
         font-size: 3rem;
+     }
+     &__headshot{
+        right: 1rem;
      }
    }
     

@@ -5,6 +5,7 @@ function WorkInfo(props){
             <h4 className='workInfo__title'>{props.job.title}</h4>
             <p className='workInfo__year'>{props.job.year}</p>
             <p className='workInfo__text'>{props.job.worktitle}</p>
+            <p className='workInfo__text'>{props.job.type}</p>
         </section>
     )
 }
