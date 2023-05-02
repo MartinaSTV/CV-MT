@@ -40,7 +40,7 @@ function Navbar(){
     return(
         <section className="navigation">
             <nav className="navigation__nav">
-                <h1 onClick = { navigateToAbout } className="navigation__titles">About</h1>
+                <h1 onClick = { navigateToAbout } className="navigation__titles">About Me</h1>
                 <h1 onClick = {navigateToWork } className="navigation__titles">Previous Work</h1>
                 <h1 onClick = {navigateToEducation } className="navigation__titles">Education</h1>
                 <h1 onClick = {navigateToContacts} className="navigation__titles">Contacts</h1>
@@ -48,7 +48,7 @@ function Navbar(){
             <nav className='navigation__mobile'>
                 <select name="Menu" id="Menu" className='navigation__droplist' onChange={ getValue }>
                     <option  value="Menu" className='navigation__titles option'>Menu</option>
-                    <option className="navigation__titles option" value="About">About</option>
+                    <option className="navigation__titles option" value="About">About Me</option>
                     <option className="navigation__titles option" value="Prevoius Work">Previous Work</option>
                     <option  className="navigation__titles option"value="Education">Education</option>
                     <option  className="navigation__titles option" value="Contacts">Contacts</option>

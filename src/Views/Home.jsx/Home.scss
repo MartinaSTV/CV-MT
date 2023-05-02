@@ -20,6 +20,14 @@
    &__about{
     background-color:$lightGrey;
    }
+   &__title{
+    padding-top: 1rem;
+    color:  rgba(75, 77, 99, 1);
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 2rem;
+    margin-top: 0;
+   }
 
 
 }

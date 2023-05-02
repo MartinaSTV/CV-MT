@@ -14,6 +14,7 @@ function Home(){
                 <Navbar/>
             </article>
             <article className="home__about">
+                <h4 className="home__title">About me</h4>
                 <About/>
             </article>
         </section>
