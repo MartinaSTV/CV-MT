@@ -6,7 +6,7 @@ function Contact(){
 
     return(
         <article className='contact'>
-             <article><NavBurger/></article>
+             <article className='contact__navBurger'><NavBurger/></article>
             <article className='contact__header'><Header/></article>
             <article className='contact__navbar'><Navbar/></article>
              <h4 className='contact__title'>Contacts</h4>

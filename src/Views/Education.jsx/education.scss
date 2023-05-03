@@ -39,4 +39,19 @@
         color:  rgba(75, 77, 99, 1);
         font-size: 1.5rem;
     }
+    &__navBurger{
+        display: none ;
+       }
 }
+@media only screen and (max-width: 560px) {
+
+    .education{
+        position: relative;
+        
+        &__navBurger{
+            margin-left: auto;
+            padding: 0.5rem;
+            display: block ;
+           }
+    }   
+   }

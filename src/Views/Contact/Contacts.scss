@@ -31,4 +31,19 @@
         margin-left: 2rem;
         color:  rgba(75, 77, 99, 1);
     }
+    &__navBurger{
+        display: none;
+       }
 }
+@media only screen and (max-width: 560px) {
+
+    .contact{
+        position: relative;
+        
+        &__navBurger{
+            margin-left: auto;
+            padding: 0.5rem;
+            display: block ;
+           }
+    }   
+   }

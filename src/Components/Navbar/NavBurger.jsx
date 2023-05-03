@@ -25,7 +25,7 @@ function NavBurger(){
 
     return(
         <section className='NavBurger'>
-            <img onClick={ showMenu} src={hamburger} alt="hamburger Icon" className='nav__img'/>
+            <img onClick={ showMenu} src={hamburger} alt="hamburger Icon" className='NavBurger__img'/>
             {show? <nav className='NavBurger__nav'>
                 <article onClick={navigateToAbout} className='nav__title'>About Me</article>
                 <article onClick={navigateToWork} className='nav__title'>Previous Work</article>

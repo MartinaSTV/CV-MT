@@ -6,7 +6,7 @@ function Education(){
 
     return(
         <section className="education">
-            <article><NavBurger/></article>
+            <article className='education__navBurger'><NavBurger/></article>
             <article className='education__header'>
                 <Header/>
             </article>
