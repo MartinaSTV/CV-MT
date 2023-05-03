@@ -1,6 +1,5 @@
 import './Navbar.scss'
 import { useNavigate } from 'react-router-dom'
-import hamburger from '../../assets/menu_FILL0_wght400_GRAD0_opsz48.svg'
 
 function Navbar(){ 
 
@@ -45,7 +44,7 @@ function Navbar(){
                 <h1 onClick = {navigateToEducation } className="navigation__titles">Education</h1>
                 <h1 onClick = {navigateToContacts} className="navigation__titles">Contacts</h1>
             </nav>
-            <nav className='navigation__mobile'>
+           {/*  <nav className='navigation__mobile'>
                 <select name="Menu" id="Menu" className='navigation__droplist' onChange={ getValue }>
                     <option  value="Menu" className='navigation__titles option'>Menu</option>
                     <option className="navigation__titles option" value="About">About Me</option>
@@ -53,7 +52,7 @@ function Navbar(){
                     <option  className="navigation__titles option"value="Education">Education</option>
                     <option  className="navigation__titles option" value="Contacts">Contacts</option>
                 </select>
-            </nav>
+            </nav> */}
         </section>
     )
 }

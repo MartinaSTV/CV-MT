@@ -1,10 +1,12 @@
 import Navbar from '../../Components/Navbar/Navbar'
 import './education.scss'
 import Header from '../../Components/Header/Header'
+import NavBurger from '../../Components/Navbar/NavBurger'
 function Education(){
 
     return(
         <section className="education">
+            <article><NavBurger/></article>
             <article className='education__header'>
                 <Header/>
             </article>

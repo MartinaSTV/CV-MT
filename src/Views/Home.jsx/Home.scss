@@ -28,6 +28,19 @@
     margin-left: 2rem;
     margin-top: 0;
    }
-
-
+   &__navBurger{
+    display: none;
+   }
 }
+@media only screen and (max-width: 560px) {
+
+    .home{
+        position: relative;
+        
+        &__navBurger{
+            margin-left: auto;
+            padding: 0.5rem;
+            display: block ;
+           }
+    }   
+   }

@@ -13,7 +13,7 @@
         font-size: 1.75rem;
     }
     
-    &__mobile{
+   /*  &__mobile{
         background-color: $salmonPink;
         width: 100%;
     }
@@ -27,14 +27,14 @@
         display: none;
         padding: 0.5rem;
         padding-left: 2rem;
-    }
+    } */
 }
 @media only screen and (max-width: 560px) {
 
     .navigation__nav{
         display: none;
     }
-    .navigation__droplist{
+  /*   .navigation__droplist{
         display: flex;
         -webkit-appearance: none;
         appearance: none;
@@ -51,6 +51,6 @@
         font-weight: 300;
         color: black;
         width: 100%;
-    }
+    } */
      
    }

@@ -4,6 +4,7 @@ import work from '../../assets/info.json'
 import WorkInfo from "../../Components/WorkInfo/WorkInfo"
 import { useState } from "react"
 import Header from "../../Components/Header/Header"
+import NavBurger from "../../Components/Navbar/NavBurger"
 
 
 function Work(){
@@ -20,6 +21,7 @@ function Work(){
 
     return(
         <section className="work">
+            <article className="work__navBurger"><NavBurger/></article>
             <article className="work__header">
                 <Header/>
             </article>

@@ -1,0 +1,16 @@
+@import '../../Sass/variables';
+.NavBurger{
+    width: 100%;
+    position: relative;
+
+    &__nav{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 1.75rem;
+        background-color: $salmonPink;
+        position: absolute;
+        right: 0;
+        z-index: 2;
+        padding: 0.5rem;
+    }
+}
