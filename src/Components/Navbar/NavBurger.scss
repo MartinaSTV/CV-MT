@@ -2,7 +2,7 @@
 .NavBurger{
     width: 100%;
     position: relative;
-
+    font-family: 'Open Sans', sans-serif;
 
     &__nav{
         font-family: 'Open Sans', sans-serif;
@@ -10,12 +10,16 @@
         font-size: 1.75rem;
         background-color: $salmonPink;
         position: absolute;
-        right: 0;
+        left: 0;
         z-index: 2;
         padding: 0.5rem;
     }
-    &__img{
-       
+    &__title{
+        display: flex;
+    }
+    &__text{
+        padding-left: 1rem;
+        font-size:1rem;
     }
    
 }
