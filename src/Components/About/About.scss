@@ -18,6 +18,11 @@
         border: 1px solid grey;
         border-radius: 5px;
         padding: 0.5rem;
+        box-shadow: 0px 0px 0.5px 0.3px rgb(156, 158, 176);
+    }
+    &__link:hover{
+        box-shadow: 0px 0px 1px 0.5px rgb(156, 158, 176);
+        font-weight: 400;
     }
     &__title{
         color:  rgba(75, 77, 99, 1);
