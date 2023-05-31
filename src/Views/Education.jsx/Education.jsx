@@ -18,7 +18,7 @@ function Education(){
                 <h4 className='education__headline'>Latest</h4>
                 <p>Jensen Education - <span className='education__kursiv'>Ongoing</span></p>
                 <p className='education__text'>Frontend-developer 2022-2024</p>
-                <p>2 year education at Jensen Education in Göteborg. During our eduction we worked with Java script, CSS, HTML 5, React, figma etcetera.</p>
+                <p>2 year education at Jensen Education in Göteborg. During our eduction we worked with JavaScript, CSS, HTML 5, React, Figma etcetera.</p>
             </article>
            
             <article className='education__previous'>
@@ -26,7 +26,7 @@ function Education(){
                 <section className='education__top'>
                     <p>Skandinaviska osteopathögskolan <span className='education__kursiv'>2013-2017</span></p>
                     <p>Bsc, DO Osteopath</p>
-                    <p>what does an osteopath do? read more on osteopatförbundet webpage</p>
+                    <p>What does an osteopath do? read more on Osteopatförbundet webpage</p>
                     <a className='education__link' href="https://www.osteopatforbundet.se/om-osteopati/"> Osteopatförbundet</a>
                 </section>
                 <section className='education__top'>
