@@ -17,7 +17,7 @@ function Navbar(){
         navigate('/Contact')
     }
     
-    function getValue(e){
+/*     function getValue(e){
        let option = e.target.value
 
        if (option === 'About'){
@@ -34,7 +34,7 @@ function Navbar(){
        }
        if (option === ''){
        }
-    }
+    } */
 
     return(
         <section className="navigation">

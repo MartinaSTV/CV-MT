@@ -37,7 +37,7 @@ function Work(){
             <h4 className="work__headline work__title">Previous Work</h4>
             <article className="work__summary">
                 <h4 className="work__subheadline" >Summary</h4>
-                <p>Most of my former workplaces are in various jobs whitin restaurant such as cook, waitress, conference hostess etc. with the exception of some workplaces where i workd on a tomato farm and another where i sold tickets for Västtrafik</p>
+                <p>Most of my former workplaces are in various jobs whitin restaurant such as cook, waitress, conference hostess etc. With the exception of some workplaces where i worked on a tomato farm and another where i sold tickets for Västtrafik</p>
                 <button onClick = { showPreviousWork } className="work__button">Show Previous Workplaces</button>
                 {showWork? allWork: null}
             </article>

@@ -6,7 +6,7 @@ function Contact(){
 
     return(
         <article className='contact'>
-             <article className='contact__navBurger'><NavBurger/></article>
+            <article className='contact__navBurger'><NavBurger/></article>
             <article className='contact__header'><Header/></article>
             <article className='contact__navbar'><Navbar/></article>
              <h4 className='contact__title'>Contacts</h4>
@@ -17,7 +17,7 @@ function Contact(){
            
             <article className='contact__article'>
                 <p>I live in Lerum with my family, a suburb close to gothenburg.
-                   if you have an question or want more details feel free to call or mail me. Have a nice day!</p>
+                   If you have an question or want more details feel free to call or e-mail me. Have a nice day!</p>
                 <p>Best Regards Martina</p>
             </article> 
         </article>  
