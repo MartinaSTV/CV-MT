@@ -18,7 +18,7 @@ function Education(){
                 <h4 className='education__headline'>Latest</h4>
                 <p>Jensen Education - <span className='education__kursiv'>Ongoing</span></p>
                 <p className='education__text'>Frontend-developer 2022-2024</p>
-                <p>2 year education at Jensen Education in Göteborg. During our eduction we worked with JavaScript, CSS, HTML 5, React, Figma etcetera.</p>
+                <p>2 year education at Jensen Education in Göteborg. During our education we worked with JavaScript, CSS, HTML 5, React, Figma etcetera.</p>
             </article>
            
             <article className='education__previous'>

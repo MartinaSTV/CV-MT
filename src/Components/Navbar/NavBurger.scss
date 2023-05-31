@@ -16,7 +16,9 @@
     }
     &__title{
         display: flex;
+        -webkit-tap-highlight-color: rgb(243, 205, 205)
     }
+
     &__text{
         padding-left: 1rem;
         font-size:1rem;

@@ -4,7 +4,7 @@ function About(){
     return(
         <section className='about'>
             <article className='about__about'>
-                <h4 className='about__title'>Who am i</h4>
+                <h4 className='about__title'>Who am I</h4>
                 <p className='about__text'>I am currently a student at Jensen YH education in 
                 Göteborg. During my education we have worked with java script, html 5, CSS, 
                 React etcetera. 

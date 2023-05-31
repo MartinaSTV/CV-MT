@@ -3,21 +3,21 @@
         "id": 1,
         "year" : "2021.04 t.o.m 2022.11",
         "title" : "Äldrevården Lerumskommun",
-        "worktitle" : "Vårdbiträde, demensavdelning.",
+        "worktitle" : "Dare assistant, dementia ward.",
         "type" : "Hourly employment."
     },
     {
         "id": 2,
         "year" : "2019 t.o.m 2021",
         "title" : "Lernia Bemanningsföretag",
-        "worktitle" : "Lagerhantering.",
+        "worktitle" : "Warehouse work.",
         "type" : "Hourly employment."
     },
     {
         "id": 3,
         "year" : "2013-10-24 t.o.m 2016-12-29",
         "title" : "Lerums kommun skola, förskola",
-        "worktitle" : "Kock.",
+        "worktitle" : "Chef.",
         "type" : "Hourly employment."
     },
     {
@@ -31,77 +31,77 @@
         "id": 5,
         "year" : "2012-10-24 t.o.m 2013-07-29",
         "title" : " Öijareds golfrestaurang, Floda",
-        "worktitle" : "Servitris, hovmästare.",
+        "worktitle" : "Waitress, butler.",
         "type" : "Full time."
     },
     {
         "id": 6,
         "year" : "2010-03 t.o.m 2012-09-22",
         "title" : " Skafferiet Coffeebar, Göteborg",
-        "worktitle" : "Cafèbiträde/kallskänka.",
+        "worktitle" : "Cafe assistant/ Cooler.",
         "type" : "Full time."
     },
     {
         "id": 7,
         "year" : "2009-07 t.o.m. 2010-03",
         "title" : " Tidpunkten",
-        "worktitle" : "Försäljning av biljetter och information av resevägar, tider och priser.",
+        "worktitle" : "Sale of tickets and information on travel routes, times and prices.",
         "type" : "Full time."
     },
     {
         "id": 8,
         "year" : "2009-11 t.o.m. 2010-06",
         "title" : "Restaurang Assistans, Bemanningsföretag i Göteborg.",
-        "worktitle" : "Köksbiträde, Konferansvärdinna, Servitris.",
+        "worktitle" : " Kitchen assistant, Conference hostess, Waitress. ",
         "type" : "Hourly employment."
     },
     {
         "id": 9,
         "year" : "2008-08 t.o.m. 2009-01,",
         "title" : "Grata Personal, Bemanningsföretag i Oslo. (Norge)",
-        "worktitle" : "Servitris på Banketter, Konferanser. Köksbiträde. Kock.",
+        "worktitle" : "Waitress at Banquets, Conferences. Kitchen assistant. Chef.",
         "type" : "Hourly employment."
     },
     {
         "id": 10,
         "year" : "2007-09- 28 t.o.m. 2008-04-31,",
         "title" : "Kaffitár, Cafè i Kringlan i Reykjavik (Island)",
-        "worktitle" : "Barista samt sedvanliga arbetsuppgifter inom Café.",
+        "worktitle" : " Barista and usual duties within Café.",
         "type" : "Full time."
     },
     {
         "id": 11,
         "year" : "2007-07- t.o.m. 2007-09",
         "title" : "Fjalakötturinn à la carte Restaurang, Reykjavik (Island).",
-        "worktitle" : "Kock.",
+        "worktitle" : "Chef.",
         "type" : "Full time."
     },
     {
         "id": 12,
         "year" : "",
         "title" : "Handlarn, Matvarubutik i Olofstorp",
-        "worktitle" : " Kassörska, plocka upp varor mm.",
+        "worktitle" : "Cashier.",
         "type" : "Full time."
     },
     {
         "id": 13,
         "year" : " 2006-09 t.o.m. 2006-11",
         "title" : "Foss hotel Reykholt, Island",
-        "worktitle" : "Frukostvärdinna, köksbiträde, servering, städning av hotellrum mm.",
+        "worktitle" : "Breakfast hostess, kitchen assistant, serving, cleaning hotel rooms, etc.",
         "type" : "Hourly employment."
     },
     {
         "id": 14,
         "year" : "2006-05 t.o.m. 2006-11",
         "title" : "Gardyrkjustöd, Reykholt, Island",
-        "worktitle" : "Huvudsakliga arbetsuppgifter med tomatplantor, sortering, packning samt diverse trädgårdsarbete.",
+        "worktitle" : "Main tasks with tomato plants, sorting, packing and various gardening work.",
         "type" : "Full time."
     },
     {
         "id": 15,
         "year" : "2004-09 t.o.m. 2006-03",
         "title" : "Bergumsskola, Lärjedalen",
-        "worktitle" : "Kokerska, ekonomibiträde och lokalvårdare.",
+        "worktitle" : "Chef, finance assistant.",
         "type" : "Hourly employment."
     }
 ]
