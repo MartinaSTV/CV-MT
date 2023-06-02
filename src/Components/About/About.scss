@@ -24,6 +24,9 @@
         box-shadow: 0px 0px 1px 0.5px rgb(156, 158, 176);
         font-weight: 400;
     }
+    &__link:visited{
+       border-bottom: 1px solid $salmonPink;
+    }
     &__title{
         color:  rgba(75, 77, 99, 1);
       

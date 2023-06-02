@@ -20,7 +20,6 @@
     }
     &__title{
         display: flex;
-        -webkit-tap-highlight-color: rgb(243, 205, 205);
     }
 
     &__text{
@@ -30,7 +29,9 @@
    
 }
 .nav__title{
-
   padding: 0.4rem;
   border-bottom: 1px solid;
 }
+.nav__title:active{
+    font-weight: 500;
+  }

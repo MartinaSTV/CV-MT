@@ -31,7 +31,7 @@ function NavBurger(){
             </section>
             
             {show? <nav className='NavBurger__nav'>
-                <article onClick={navigateToAbout} className='nav__title'>About Me</article>
+                <article onClick={navigateToAbout} /* onTouchStart="" */ className='nav__title'>About Me</article>
                 <article onClick={navigateToWork} className='nav__title'>Previous Work</article>
                 <article onClick={navigateToEducation} className='nav__title'>Education</article>
                 <article onClick={navigateToContacts} className='nav__title'>Contacts</article>
