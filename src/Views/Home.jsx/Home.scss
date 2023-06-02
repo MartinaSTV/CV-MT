@@ -17,7 +17,6 @@
    &__navbar{
     width: 100%;
     z-index: 5;
-    box-shadow: 0px 0px 3px 0.5px rgba(75, 77, 99, 1);
    }
    &__about{
     background-color:$lightGrey;
@@ -40,7 +39,6 @@
         position: relative;
 
         &__navBurger{
-            /* margin-left: auto; */
             padding: 0.5rem;
             display: block ;
            }

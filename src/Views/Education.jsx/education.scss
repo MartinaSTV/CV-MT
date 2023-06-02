@@ -18,6 +18,10 @@
     &__kursiv{
         font-style: italic;
     }
+    &__navbar{
+        z-index: 5;
+        position: relative;
+    }
     &__link{
         text-decoration: none;
         color: black;

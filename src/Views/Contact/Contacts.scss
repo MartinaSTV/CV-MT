@@ -18,6 +18,8 @@
     }
     &__navbar{
         width: 100%;
+        position: relative;
+        z-index: 5;
     }
     &__header{
         width: 100%;
