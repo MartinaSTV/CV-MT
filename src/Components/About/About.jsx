@@ -6,8 +6,8 @@ function About(){
             <article className='about__about'>
                 <h4 className='about__title'>Who am I</h4>
                 <p className='about__text'>I am currently a student at Jensen YH education in 
-                Göteborg. During my education we have worked with java script, html 5, CSS, 
-                React etcetera. 
+                Göteborg. During my education we have worked with java script, HTML 5, CSS, 
+                React and work methods such as Scrum and Kanban. 
                 I am new to the industry but I would like to learn more and develop in this 
                 occupation. I got into programming by chance really but it has grown on 
                 me and I think it's so fun. I see a future in programming and look forward to learning more 

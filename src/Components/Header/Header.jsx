@@ -7,7 +7,7 @@ function Header(){
             <img className='header__headshot' src={headshot} alt="Headshot" /> 
             <h4 className='header__textTop'>Hi my name is </h4>
             <h1 className='header__title'>Martina Tornström</h1>
-            <h5 className='header__textBottom'>Frontend-developer</h5>
+            <h5 className='header__textBottom'>Frontend Developer</h5>
         </section>
     )
 }
